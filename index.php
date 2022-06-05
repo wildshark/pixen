@@ -28,6 +28,8 @@ if(!isset($_REQUEST['submit'])){
             break;
             
         }
+
+        require_once($page);
     }
 }
 

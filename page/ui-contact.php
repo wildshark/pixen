@@ -131,7 +131,7 @@
                                     <option>Frn</option>
                                 </select>
                             </div>
-                            <a href="contact.html" class="quote-btn">Get a quote</a>
+                            <a href="?page=qoute" class="quote-btn">Get a quote</a>
                         </div>
                     </div>
                 </div>
@@ -240,12 +240,6 @@
         </div>
     </section>
     <!-- gta section end -->
-
-    <!-- map area start -->
-    <div class="contact-map-area">
-        <div id="contact-map"></div>
-    </div>
-    <!-- map area end -->
 
     <!-- footer start -->
     <footer class="footer footer__2 pt-120">

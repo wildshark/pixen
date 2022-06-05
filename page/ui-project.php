@@ -111,33 +111,7 @@
                             <div class="mainmenu">
                                 <nav id="mobile-menu">
                                     <ul>
-                                        <li class="menu_has_children">
-                                            <a href="index.html">Home</a>
-                                            <ul class="sub-menu">
-                                                <li><a href="index.html">Home Style 01</a></li>
-                                                <li><a href="index-02.html">Home Style 02</a></li>
-                                            </ul>
-                                        </li>
-                                        <li><a href="about.html">About</a></li>
-                                        <li><a href="#0">Pages</a>
-                                            <ul class="sub-menu">
-                                                <li><a href="team.html">Team</a></li>
-                                                <li><a href="pricing.html">Pricing</a></li>
-                                                <li><a href="faq.html">Faq</a></li>
-                                                <li><a href="team-details.html">Team Details</a></li>
-                                                <li><a href="service-details.html">Service Details</a></li>
-                                                <li><a href="project-details.html">Project Details</a></li>
-                                                <li><a href="privacy-policy.html">Privacy Policy</a></li>
-                                            </ul>
-                                        </li>
-                                        <li><a href="service.html">Services</a></li>
-                                        <li><a href="project.html">Project</a></li>
-                                        <li><a href="news.html">Article</a>
-                                            <ul class="sub-menu">
-                                                <li><a href="news-details.html">Article Details</a></li>
-                                            </ul>
-                                        </li>
-                                        <li><a href="contact.html">Contact</a></li>
+                                        <?=TopMenu()?>
                                     </ul>
                                 </nav>
                             </div>
@@ -156,7 +130,7 @@
                                     <option>Frn</option>
                                 </select>
                             </div>
-                            <a href="contact.html" class="quote-btn">Get a quote</a>
+                            <a href="?page=qoute" class="quote-btn">Get a quote</a>
                         </div>
                     </div>
                 </div>
