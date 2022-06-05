@@ -26,6 +26,10 @@ if(!isset($_REQUEST['submit'])){
             case"contact";
                 $page = $_TEMPLATE["contact"];
             break;
+
+            case"quote";
+                $page = $_TEMPLATE["quote"];
+            break;
             
         }
 

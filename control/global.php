@@ -6,7 +6,8 @@ $_TEMPLATE=[
     "home"=>"page/ui-home.php",
     "service"=>"page/ui-service-details.php",
     "project"=>"page/ui-project.php",
-    "contact"=>"page/ui-contact.php"
+    "contact"=>"page/ui-contact.php",
+    "quote"=>"page/ui-quote.php"
 ];
 
 function TopMenu(){

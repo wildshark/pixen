@@ -130,7 +130,7 @@
                                     <option>Frn</option>
                                 </select>
                             </div>
-                            <a href="?page=qoute" class="quote-btn">Get a quote</a>
+                            <a href="?page=quote" class="quote-btn">Get a quote</a>
                         </div>
                     </div>
                 </div>

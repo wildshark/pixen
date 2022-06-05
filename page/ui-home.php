@@ -107,7 +107,7 @@
                                     <a href="tel:505635-2400">(505) 635-2400</a>
                                 </div>
                             </div>
-                            <a href="?page=qoute" class="quote-btn">Get a quote</a>
+                            <a href="?page=quote" class="quote-btn">Get a quote</a>
                         </div>
                     </div>
                 </div>
